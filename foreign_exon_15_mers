@@ -1,4 +1,4 @@
-from utility_scripts_for_get_foreign_exons import *
+from mutated_nucleotide_sequence_to_protein_sequence *
 from collections import Counter
 import re 
 
